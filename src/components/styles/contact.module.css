@@ -1,0 +1,69 @@
+.wrapper {
+  width: 100%;
+  background-color: #060606;
+  padding-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.contactMe {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: poppins;
+  color: #fff;
+}
+
+.contactMeText {
+  margin-top: 25px;
+  font-size: 18px;
+  font-family: poppins;
+  color: #fff;
+  width: 70%;
+  text-align: center;
+}
+
+.mailmeButton {
+  background-color: orangered;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  border: none;
+  font-size: 22px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 25px;
+  text-decoration: none;
+}
+
+.mailmeButton > img {
+  margin-right: 10px;
+}
+
+.socialContainer {
+  background-color: orangered;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.socialContainer img {
+  height: 25px;
+  width: 25px;
+}
