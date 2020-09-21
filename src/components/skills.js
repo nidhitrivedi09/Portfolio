@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./styles/skills.module.css";
 import skillsgirl from "../assets/skillsGirl.svg";
+import Python from "../assets/python.svg";
 const mySkills = [
   { text: "HTML", per: 80 },
   { text: "CSS", per: 75 },
@@ -33,6 +34,9 @@ export default function Skills() {
             return <Skill text={s.text} per={s.per} key={i}></Skill>;
           })}
         </div>
+      </div>
+      <div className={styles.python}>
+        <img src={Python} alt="python" />
       </div>
     </div>
   );

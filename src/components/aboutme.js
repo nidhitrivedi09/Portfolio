@@ -11,7 +11,7 @@ export default function AboutMe() {
         <p className={styles.hello}>Hello I'am</p>
         <img src={triangle} />
         <p className={styles.name}>Ms.Nidhi Trivedi</p>
-        <p>Passionate about Web development and UI/UX designer</p>
+        <p>Passionate about Web Development and UI/UX Designer</p>
         <button className={styles.cvButton}>Download CV</button>
       </div>
       <div className={styles.profilepic}>

@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./styles/navbar.module.css";
 import logo from "../assets/logo.svg";
+
 export default function Navbar() {
   return (
     <div className={styles.container}>
@@ -9,7 +10,7 @@ export default function Navbar() {
         <a href="#aboutme">About Me</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
-        <a href="#resume">Resume</a>
+        <a href="/NidhiResume.pdf">Resume</a>
         <a href="#contactme">Contact</a>
       </div>
     </div>

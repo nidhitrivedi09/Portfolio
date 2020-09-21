@@ -20,14 +20,14 @@
 .contactMe {
   font-size: 40px;
   font-weight: bold;
-  font-family: poppins;
+  font-family: "Poppins", sans-serif;
   color: #fff;
 }
 
 .contactMeText {
   margin-top: 25px;
   font-size: 18px;
-  font-family: poppins;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   width: 70%;
   text-align: center;
@@ -42,7 +42,7 @@
   font-size: 22px;
   display: flex;
   justify-content: flex-end;
-  margin-top: 25px;
+  margin-top: 40px;
   text-decoration: none;
 }
 
@@ -56,14 +56,20 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: flex-end;
-  width: 20%;
+  width: 30%;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px;
+  padding: 15px;
   border-radius: 10px;
 }
 
 .socialContainer img {
-  height: 25px;
-  width: 25px;
+  height: 40px;
+  width: 30px;
+}
+
+.fb > img {
+  height: 35px;
+  width: 30px;
+  padding-top: 5px;
 }
