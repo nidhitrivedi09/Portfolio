@@ -57,7 +57,7 @@ export default function ContactMe() {
         </a>
 
         <a
-          href="https://behance.com/nidhitrivedi09"
+          href="https://behance.net/nidhitrivedi09"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -65,7 +65,7 @@ export default function ContactMe() {
         </a>
 
         <a
-          href="https://github.com/nidhitrivedi09"
+          href="https://in.pinterest.com/tnidhi518"
           target="_blank"
           rel="noopener noreferrer"
         >

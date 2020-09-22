@@ -8,12 +8,21 @@ export default function Project() {
         <div className={styles.projectTitle}>MY PROJECTS</div>
         <div className={styles.projectGrid}>
           <ProjectLink
-            link="/"
+            link="https://github.com/nidhitrivedi09/Human-Emotion-Detection"
             text="Human Emotion Detection Using Facial Expression"
           />
-          <ProjectLink link="/" text="Student ID-Card Website" />
-          <ProjectLink link="/" text="Text Editor" />
-          <ProjectLink link="/" text="Text-Speech Converter" />
+          <ProjectLink
+            link="https://github.com/nidhitrivedi09/Student-ID-Card"
+            text="Student ID-Card Website"
+          />
+          <ProjectLink
+            link="https://github.com/nidhitrivedi09/Text-Editor"
+            text="Text Editor"
+          />
+          <ProjectLink
+            link="/Audible-BookReportFile.pdf"
+            text="Text-Speech Converter"
+          />
         </div>
       </div>
     </div>
