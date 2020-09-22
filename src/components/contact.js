@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./styles/contact.module.css";
 import mailIcon from "../assets/mailicon.svg";
-import Insta from "../assets/insta.svg";
 import Facebook from "../assets/facebook.svg";
 import Github from "../assets/github-image.svg";
 import LinkedIn from "../assets/linkedin.svg";
@@ -23,14 +22,6 @@ export default function ContactMe() {
         </a>
       </div>
       <div className={styles.socialContainer}>
-        <a
-          href="https://instagram.com/nidhitrivedi_"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={Insta} alt="Insta" />
-        </a>
-
         <a
           className={styles.fb}
           href="https://facebook.com/nidhitrivedi09"
