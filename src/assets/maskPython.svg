@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="638" height="600" viewBox="0 0 638 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1034" data-name="Rectangle 1034" width="638" height="600" transform="translate(1282 2360)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-1282 -2360)" clip-path="url(#clip-path)">
+    <g id="python" transform="translate(1344 2360)" opacity="0.4">
+      <path id="Path_36858" data-name="Path 36858" d="M551.352,184.2H461.773V94.626A94.732,94.732,0,0,0,367.148,0H278.83A94.732,94.732,0,0,0,184.2,94.626V184.2H94.626A94.732,94.732,0,0,0,0,278.83v88.317a94.732,94.732,0,0,0,94.626,94.626H184.2v89.579a94.732,94.732,0,0,0,94.626,94.626h88.317a94.732,94.732,0,0,0,94.626-94.626V461.773h89.579a94.732,94.732,0,0,0,94.626-94.626V278.83A94.732,94.732,0,0,0,551.352,184.2ZM94.626,423.923A56.841,56.841,0,0,1,37.85,367.148V278.83a56.841,56.841,0,0,1,56.775-56.775H322.989a18.925,18.925,0,1,0,0-37.85H222.055V94.626A56.841,56.841,0,0,1,278.83,37.85h88.317a56.841,56.841,0,0,1,56.775,56.775V304.064H203.13A18.924,18.924,0,0,0,184.2,322.989V423.923Zm513.5-56.775a56.841,56.841,0,0,1-56.775,56.775H322.989a18.925,18.925,0,1,0,0,37.85H423.923v89.579a56.841,56.841,0,0,1-56.775,56.775H278.83a56.841,56.841,0,0,1-56.775-56.775V341.914H442.848a18.924,18.924,0,0,0,18.925-18.925V222.055h89.579a56.841,56.841,0,0,1,56.775,56.775Zm0,0" fill="#ff4900"/>
+      <path id="Path_36859" data-name="Path 36859" d="M243.85,93.925A18.925,18.925,0,1,1,224.925,75,18.924,18.924,0,0,1,243.85,93.925Zm0,0" transform="translate(53.905 19.626)" fill="#ff4900"/>
+      <path id="Path_36860" data-name="Path 36860" d="M313.85,425.925A18.925,18.925,0,1,1,294.925,407,18.924,18.924,0,0,1,313.85,425.925Zm0,0" transform="translate(72.223 106.502)" fill="#ff4900"/>
+    </g>
+    <g id="Group_34867" data-name="Group 34867" transform="translate(23 72)">
+      <g id="Skills" transform="translate(-25 -48)">
+        <text id="Java_75_" data-name="Java 75%" transform="translate(1038 1655)" fill="#111" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Java 75%</tspan></text>
+        <text id="HTML_75_" data-name="HTML 75%" transform="translate(1038 1745)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">HTML 75%</tspan></text>
+        <text id="JAVASCRIPT_60_" data-name="JAVASCRIPT 60%" transform="translate(1038 1835)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">JAVASCRIPT 60%</tspan></text>
+        <text id="HTML_75_2" data-name="HTML 75%" transform="translate(1038 1745)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">HTML 75%</tspan></text>
+        <text id="CSS_80_" data-name="CSS 80%" transform="translate(1038 1925)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">CSS 80%</tspan></text>
+      </g>
+      <g id="Group_207" data-name="Group 207" transform="translate(-24 112)">
+        <line id="Line_35" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36" data-name="Line 36" x2="401" transform="translate(1037.5 1720.5)" fill="none" stroke="#ff4900" stroke-width="5"/>
+      </g>
+      <g id="Group_208" data-name="Group 208" transform="translate(-24 288)">
+        <line id="Line_35-2" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36-2" data-name="Line 36" x2="460" transform="translate(1037.5 1720.5)" fill="none" stroke="#ff7004" stroke-width="5"/>
+      </g>
+      <g id="Group_209" data-name="Group 209" transform="translate(-24 196)">
+        <line id="Line_35-3" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36-3" data-name="Line 36" x2="560" transform="translate(1037.5 1720.5)" fill="none" stroke="#ff9809" stroke-width="5"/>
+      </g>
+      <g id="Group_210" data-name="Group 210" transform="translate(-24 514)">
+        <line id="Line_35-4" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36-4" data-name="Line 36" x2="603" transform="translate(1037.5 1720.5)" fill="none" stroke="#ffbf0d" stroke-width="5"/>
+      </g>
+      <g id="Group_34858" data-name="Group 34858" transform="translate(-24 5)">
+        <line id="Line_35-5" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36-5" data-name="Line 36" x2="512" transform="translate(1037.5 1720.5)" fill="none" stroke="#ff4900" stroke-width="5"/>
+      </g>
+      <g id="Group_34860" data-name="Group 34860" transform="translate(-24 -79)">
+        <line id="Line_35-6" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="Line_36-6" data-name="Line 36" x2="501" transform="translate(1037.5 1720.5)" fill="none" stroke="#ff9809" stroke-width="5"/>
+      </g>
+      <g id="Group_34861" data-name="Group 34861" transform="translate(-24 400)">
+        <line id="Line_35-7" data-name="Line 35" x2="648" transform="translate(1037.5 1720.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <path id="Path_36852" data-name="Path 36852" d="M0,0H344.712" transform="translate(1037.5 1720.5)" fill="none" stroke="#ffbf0d" stroke-width="5"/>
+      </g>
+      <g id="Group_34862" data-name="Group 34862" transform="translate(-22 223)">
+        <rect id="Rectangle_129" data-name="Rectangle 129" width="241" height="83" rx="10" transform="translate(1038 2078)" fill="#ff4900"/>
+        <text id="Hire_Me_" data-name="Hire Me!" transform="translate(1115 2127)" fill="#fff" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hire Me!</tspan></text>
+      </g>
+      <text id="PYTHON_70_" data-name="PYTHON 70%" transform="translate(1013 1977)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">PYTHON 70%</tspan></text>
+      <text id="REACT_JS_55_" data-name="REACT JS 55%" transform="translate(1013 2071)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">REACT JS 55%</tspan></text>
+      <text id="C_C_95_" data-name="C / C++ 95% " transform="translate(1016 2183)" fill="#111" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">C / C++ 95% </tspan></text>
+    </g>
+  </g>
+</svg>

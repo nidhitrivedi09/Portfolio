@@ -9,13 +9,13 @@ export default function AboutMe() {
     <div id="aboutme" className={styles.container}>
       <div className={styles.profile}>
         <p className={styles.hello}>Hello I'am</p>
-        <img src={triangle} />
+        <img src={triangle} alt="triangle" />
         <p className={styles.name}>Ms.Nidhi Trivedi</p>
         <p>Passionate about Web Development and UI/UX Designer</p>
         <button className={styles.cvButton}>Download CV</button>
       </div>
       <div className={styles.profilepic}>
-        <img src={mypic} />
+        <img src={mypic} alt="myprofilepic" />
       </div>
       <img src={Code} alt="Code" className={styles.code} />
     </div>

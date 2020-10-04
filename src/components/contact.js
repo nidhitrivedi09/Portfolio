@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./styles/contact.module.css";
 import mailIcon from "../assets/mailicon.svg";
 import Facebook from "../assets/facebook.svg";
-import Github from "../assets/github-image.svg";
+import Github from "../assets/github.svg";
 import LinkedIn from "../assets/linkedin.svg";
 import Behance from "../assets/behance.svg";
 import Pinterest from "../assets/pinterest.svg";
@@ -21,16 +21,8 @@ export default function ContactMe() {
           Mail Me
         </a>
       </div>
-      <div className={styles.socialContainer}>
-        <a
-          className={styles.fb}
-          href="https://facebook.com/nidhitrivedi09"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={Facebook} alt="Facebook" />
-        </a>
 
+      <div className={styles.socialContainer}>
         <a
           href="https://linkedin.com/in/nidhi-trivedi09"
           target="_blank"
@@ -45,6 +37,14 @@ export default function ContactMe() {
           rel="noopener noreferrer"
         >
           <img src={Github} alt="Github" />
+        </a>
+        <a
+          className={styles.fb}
+          href="https://facebook.com/nidhitrivedi09"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={Facebook} alt="Facebook" />
         </a>
 
         <a

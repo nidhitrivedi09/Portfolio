@@ -69,6 +69,7 @@
 /* Handle */
 .mapSkills::-webkit-scrollbar-thumb {
   background: #fcd093;
+  opacity: 30%;
   border-radius: 2px;
 }
 /* Handle on hover */
@@ -88,7 +89,7 @@
 
 .filledBar {
   height: 10px;
-  background-color: #ff4900;
+  background-color: orangered;
   border-radius: 10px;
 }
 
@@ -105,8 +106,8 @@
 .python {
   position: absolute;
   z-index: -1;
-  left: 910px;
-  top: 1850x;
+  left: 990px;
+  top: 1920px;
 }
 .python > img {
   height: 350px;

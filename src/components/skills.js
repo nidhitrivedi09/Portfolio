@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./styles/skills.module.css";
 import skillsgirl from "../assets/skillsGirl.svg";
-import Python from "../assets/python.svg";
+import Python from "../assets/maskPython.svg";
 const mySkills = [
   { text: "HTML", per: 80 },
   { text: "CSS", per: 75 },
@@ -12,6 +12,11 @@ const mySkills = [
   { text: "REACTJS", per: 50 },
   { text: "C/C++", per: 95 },
   { text: "ADOBE XD", per: 90 },
+  { text: "MICROSOFT OFFICE", per: 100 },
+  { text: "AMAZON WEB SERVICES", per: 70 },
+  { text: "COMMUNICATION", per: 95 },
+  { text: "LEADERSHIP", per: 90 },
+  { text: "MANAGEMENT", per: 95 },
 ];
 export default function Skills() {
   return (
@@ -27,7 +32,7 @@ export default function Skills() {
       </div>
       <div className={styles.skillsContent}>
         <div className={styles.girl}>
-          <img src={skillsgirl} />
+          <img src={skillsgirl} alt="skillsgirl" />
         </div>
         <div className={styles.mapSkills}>
           {mySkills.map((s, i) => {

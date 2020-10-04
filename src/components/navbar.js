@@ -5,7 +5,7 @@ import logo from "../assets/logo.svg";
 export default function Navbar() {
   return (
     <div className={styles.container}>
-      <img src={logo} className={styles.logo} />
+      <img src={logo} className={styles.logo} alt="logo" />
       <div className={styles.links}>
         <a href="#aboutme">About Me</a>
         <a href="#skills">Skills</a>
