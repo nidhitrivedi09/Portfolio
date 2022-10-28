@@ -24,10 +24,10 @@ export default function Skills() {
       <div className={styles.container}>
         <h3 className={styles.title}>READ ABOUT MY SKILLS!</h3>
         <p className={styles.description}>
-          I am curious about anything around me, asking questions and
-          comprehending concepts is one of the most enjoyable thing I do. I love
-          to be on situations which challenge my assumptions and push me to
-          redefine myself.
+          Hands-on experience on ML Libraries and strong technical knowledge and experience in backend languages Python, SQL ,and React
+          Experience with data management, data analytics and complex problem solving.
+          Working knowledge of Machine learning Algorithms including supervised as well as unsupervised learning and Natural Language Processing (NLP).
+          
         </p>
       </div>
       <div className={styles.skillsContent}>
